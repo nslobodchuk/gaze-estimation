@@ -1,6 +1,6 @@
 .DS_Store
 gitignored/
-
+wandb/
 
 
 ##### Standard python .gitignore below
