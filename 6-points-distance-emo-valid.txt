@@ -1,0 +1,58 @@
+Valid loss, (mean relative distance): 0.15
+Valid loss, (mean distance in cm): 3.84
+Valid loss, (mean relative distance): 0.13
+Valid loss, (mean distance in cm): 3.41
+Valid loss, (mean relative distance): 0.13
+Valid loss, (mean distance in cm): 3.45
+Valid loss, (mean relative distance): 0.12
+Valid loss, (mean distance in cm): 3.17
+Valid loss, (mean relative distance): 0.12
+Valid loss, (mean distance in cm): 3.26
+Valid loss, (mean relative distance): 0.12
+Valid loss, (mean distance in cm): 3.13
+Valid loss, (mean relative distance): 0.12
+Valid loss, (mean distance in cm): 3.12
+Valid loss, (mean relative distance): 0.12
+Valid loss, (mean distance in cm): 3.25
+Valid loss, (mean relative distance): 0.12
+Valid loss, (mean distance in cm): 3.04
+Valid loss, (mean relative distance): 0.12
+Valid loss, (mean distance in cm): 3.06
+Valid loss, (mean relative distance): 0.12
+Valid loss, (mean distance in cm): 3.15
+Valid loss, (mean relative distance): 0.11
+Valid loss, (mean distance in cm): 3.04
+Valid loss, (mean relative distance): 0.12
+Valid loss, (mean distance in cm): 3.12
+Valid loss, (mean relative distance): 0.11
+Valid loss, (mean distance in cm): 3.05
+Valid loss, (mean relative distance): 0.12
+Valid loss, (mean distance in cm): 3.04
+Valid loss, (mean relative distance): 0.12
+Valid loss, (mean distance in cm): 3.11
+Valid loss, (mean relative distance): 0.11
+Valid loss, (mean distance in cm): 3.03
+Valid loss, (mean relative distance): 0.11
+Valid loss, (mean distance in cm): 3.01
+Valid loss, (mean relative distance): 0.12
+Valid loss, (mean distance in cm): 3.15
+Valid loss, (mean relative distance): 0.12
+Valid loss, (mean distance in cm): 3.12
+Valid loss, (mean relative distance): 0.12
+Valid loss, (mean distance in cm): 3.09
+Valid loss, (mean relative distance): 0.12
+Valid loss, (mean distance in cm): 3.15
+Valid loss, (mean relative distance): 0.12
+Valid loss, (mean distance in cm): 3.10
+Valid loss, (mean relative distance): 0.12
+Valid loss, (mean distance in cm): 3.10
+Valid loss, (mean relative distance): 0.12
+Valid loss, (mean distance in cm): 3.16
+Valid loss, (mean relative distance): 0.12
+Valid loss, (mean distance in cm): 3.08
+Valid loss, (mean relative distance): 0.12
+Valid loss, (mean distance in cm): 3.10
+Valid loss, (mean relative distance): 0.12
+Valid loss, (mean distance in cm): 3.15
+Valid loss, (mean relative distance): 0.12
+Valid loss, (mean distance in cm): 3.10
