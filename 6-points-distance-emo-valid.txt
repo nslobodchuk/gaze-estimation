@@ -56,3 +56,5 @@ Valid loss, (mean relative distance): 0.12
 Valid loss, (mean distance in cm): 3.15
 Valid loss, (mean relative distance): 0.12
 Valid loss, (mean distance in cm): 3.10
+Valid loss, (mean relative distance): 0.12
+Valid loss, (mean distance in cm): 3.19

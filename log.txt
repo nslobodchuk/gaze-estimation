@@ -1,2 +1,3 @@
 nohup: ignoring input
 [NbConvertApp] Converting notebook model-with-calibration-6-points-distance-affectnet.ipynb to notebook
+[NbConvertApp] Writing 2429418 bytes to model-with-calibration-6-points-distance-affectnet-executed.ipynb

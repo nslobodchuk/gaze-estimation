@@ -56,3 +56,5 @@ Train loss, (mean relative distance): 0.05
 Train loss, (mean distance in cm): 1.52
 Train loss, (mean relative distance): 0.05
 Train loss, (mean distance in cm): 1.52
+Train loss, (mean relative distance): 0.05
+Train loss, (mean distance in cm): 1.51
