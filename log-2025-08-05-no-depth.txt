@@ -1,0 +1,3 @@
+nohup: ignoring input
+[NbConvertApp] Converting notebook model-with-calibration-6-points-distance-with-depth-focal-length-eyes-coordinates-control-without-depth.ipynb to notebook
+[NbConvertApp] Writing 2710561 bytes to model-with-calibration-6-points-distance-with-depth-focal-length-eyes-coordinates-control-without-depth-executed-2025-08-05.ipynb
